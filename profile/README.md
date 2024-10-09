@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="../logo-wide.png" alt="The Intrance" width="70%">
+</p>
+
+<p align="center">
   <b><i>"We are in a trance."</i></b>
   <br/>
   <br/>
@@ -18,8 +22,6 @@ Coursera course by Andrew Ng
 https://theintrance.github.io/deep-learning-specialization
 
 </span>
-
----
 
 <span align="center">
 
