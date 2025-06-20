@@ -1,34 +1,31 @@
 <p align="center">
-  <img src="../logo-wide.png" alt="The Intrance" width="70%">
-</p>
-
-<p align="center">
+  <br/>
+  <br/>
   <b><i>"We are in a trance."</i></b>
   <br/>
   <br/>
-  Code. Learn. Build. Repeat. Just a crew vibing with tech.
+  <i>Code. Learn. Build. Repeat. Just a crew vibing with tech.</i>
   <br/>
   <br/>
 </p>
 
----
+<br/>
 
-<span align="center">
+### [blazing.cpp](https://theintrance.github.io/blazing.cpp)
+Study and Project on "less_slow.cpp" by @ashvardanian
+- [@bayernmuller](https://github.com/bayernmuller)
+- [@jin-uu](https://github.com/jin-uu)
 
-### Deep Learning Specialization
+<br/>
 
+### [Deep Learning Specialization](https://theintrance.github.io/deep-learning-specialization)
 Coursera course by Andrew Ng
+- [@bayernmuller](https://github.com/bayernmuller)
+- [@hyunwook13](https://github.com/hyunwook13)
 
-https://theintrance.github.io/deep-learning-specialization
+<br/>
 
-</span>
-
-<span align="center">
-
-### Good Code, Bad Code
-
+### [Good Code, Bad Code](https://theintrance.github.io/good-code-bad-code)
 Book by Sonali Dey
-
-https://theintrance.github.io/good-code-bad-code
-
-</span>
+- [@bayernmuller](https://github.com/bayernmuller)
+- [@hyunwook13](https://github.com/hyunwook13)
